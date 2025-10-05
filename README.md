@@ -24,7 +24,7 @@ Easy to run in any Python environment 🐍
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/stone-paper-scissors.git
+[git clone https://github.com/your-username/stone-paper-scissors.git](https://github.com/shirshadip/python_projects.git)
 
 
 2. Navigate into the project folder:
